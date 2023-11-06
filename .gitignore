@@ -160,9 +160,7 @@ cython_debug/
 #.idea/
 
 # ignore all csv files
-*.csv
 .csv
 
 # ignore data folders
-/data
 data/
