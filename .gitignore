@@ -161,6 +161,8 @@ cython_debug/
 
 # ignore all csv files
 *.csv
+.csv
 
 # ignore data folders
 /data
+data/
